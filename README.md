@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-A new Flutter project.
+Projeto simples em flutter, para contar o número de pessoas que entram e saem de um restaurante
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![img](/screenshots/Screenshot_01.png?raw=true "Foto 1") ![img]
