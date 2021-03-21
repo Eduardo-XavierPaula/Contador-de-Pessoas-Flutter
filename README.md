@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![img](/screenshot/Screenshot_01.png?raw=true "Foto 1")
+![img](/screenshoots/Screenshot_01.png?raw=true "Foto 1")
